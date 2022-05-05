@@ -1,0 +1,23 @@
+{
+  "name": "a01-william-mullen",
+  "version": "1.0.0",
+  "description": "web server",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://William-Mullen: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@github.com/comp426-2022-spring/a01-William-Mullen.git"
+  },
+  "author": "William Mullen",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/comp426-2022-spring/a01-William-Mullen/issues"
+  },
+  "homepage": "https://github.com/comp426-2022-spring/a01-William-Mullen#readme",
+  "dependencies": {
+    "minimist": "^1.2.5",
+    "wget": "^0.0.1"
+  }
+}
